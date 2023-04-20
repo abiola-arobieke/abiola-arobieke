@@ -1,9 +1,21 @@
 ![abiola-hero](https://user-images.githubusercontent.com/114492335/233369373-7bbfd6d5-8d68-4513-a0f0-087ba4776361.png)
 
 <p><a href="https://www.twitter.com/abiola-arobieke"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abiola-arobieke"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/abiola-arobieke/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
-
-###About me
-
+<div>
+<p>
+ -I'm a <b> Full-stack software engineer </b> with experience in building web application for small and medium scale businesses. Right now, I'm studying web development at the <b><a href="https://www.microverse.org/" target="_blank">Microverse</a></b>, a remote software development that allows devs from all over the world to pair-program and build projects together. 
+</p> 
+ <p>
+  -In 2021, I bagged the certificate for the <b>Python Fullstack Developer </b> at the Ustacky coding school, and also worked there as an intern and as code reviewer.
+ </p>
+<p>
+ -In 2020, I particpated in the <b> Google African Developers Scholarship (GADS) </b> program, where I learned Java/Android.
+ </p>
+ <p>
+  -I'm open to new opportunities.
+ </p>
+ </div>
+ 
 #### 👨🏻‍💻 Languages and Frameworks <br />
 <div>
  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
@@ -18,7 +30,7 @@
  <br />
  <br />
   
-#### Data and Tools <br />
+#### 💻 Data and Tools <br />
 <div>
   <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sql/sql.png" alt="sql">
   <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">
@@ -37,29 +49,10 @@
 <br />
 <br />
 
-## UI/UX <br />
+#### 🤖 UI/UX <br />
 <div>
  <img align="left" height="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma">
  <img align="left" height="40" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="material">
  <img align="left" height="40" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="ant-design">
  </div
 
-
-
- 
-
-
-<!--
-**abiola-arobieke/abiola-arobieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -3,7 +3,7 @@
 <p><a href="https://www.twitter.com/abiola-arobieke"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abiola-arobieke"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/abiola-arobieke/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <div>
 <p>
- -I'm a <b> Full-stack software engineer </b> with experience in building web application for small and medium scale businesses. Right now, I'm studying web development at the <b><a href="https://www.microverse.org/" target="_blank">Microverse</a></b>, a remote software development that allows devs from all over the world to pair-program and build projects together. 
+ -I'm a <b> Full-stack software engineer </b> with experience in building web application for small and medium scale businesses. Currently, I'm studying web development at the <b><a href="https://www.microverse.org/" target="_blank">Microverse</a></b>, a remote software development that allows devs from all over the world to pair-program and build projects together. 
 </p> 
  <p>
   -In 2021, I bagged the certificate for the <b>Python Fullstack Developer </b> at the Ustacky coding school, and also worked there as an intern and as code reviewer.
